@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kopie_opraveno.dir/Demon.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Demon.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Entita.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Entita.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Had.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Had.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Hra.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Hra.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/KouzelneJablko.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/KouzelneJablko.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Lektvar.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Lektvar.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Mapa.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Mapa.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Mec.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Mec.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/NPC.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/NPC.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Nepritel.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Nepritel.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Postava.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Postava.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Predmet.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Predmet.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Ukol.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Ukol.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/Zombie.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/Zombie.cpp.obj.d"
+  "CMakeFiles/kopie_opraveno.dir/main.cpp.obj"
+  "CMakeFiles/kopie_opraveno.dir/main.cpp.obj.d"
+  "kopie_opraveno.exe"
+  "kopie_opraveno.exe.manifest"
+  "kopie_opraveno.pdb"
+  "libkopie_opraveno.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/kopie_opraveno.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

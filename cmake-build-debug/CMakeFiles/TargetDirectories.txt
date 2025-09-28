@@ -1,0 +1,3 @@
+C:/Users/Ales/Desktop/school/1.Semestr/Základy objektového návrhu/PROJEKT - finalni/cmake-build-debug/CMakeFiles/kopie_opraveno.dir
+C:/Users/Ales/Desktop/school/1.Semestr/Základy objektového návrhu/PROJEKT - finalni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ales/Desktop/school/1.Semestr/Základy objektového návrhu/PROJEKT - finalni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

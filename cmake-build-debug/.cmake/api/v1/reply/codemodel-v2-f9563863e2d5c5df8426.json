@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kopie_opraveno",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kopie_opraveno::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kopie_opraveno-Debug-de47c3cc5a601001a94b.json",
+					"name" : "kopie_opraveno",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ales/Desktop/school/1.Semestr/Z\u00e1klady objektov\u00e9ho n\u00e1vrhu/PROJEKT - finalni/cmake-build-debug",
+		"source" : "C:/Users/Ales/Desktop/school/1.Semestr/Z\u00e1klady objektov\u00e9ho n\u00e1vrhu/PROJEKT - finalni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
